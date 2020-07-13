@@ -10,7 +10,7 @@
 ---
 O MongoDB suporta apenas a versão de 64 bits do Ubuntu ( 18.04 e 16.04)
 O MongoDB 4.2 Enterprise Edition no Ubuntu também suporta as arquiteturas ARM64, PPC64LE e s390x em plataformas selecionadas.
-O pacote oficial mongodb-enterprise sempre contém a versão mais recente do MongoDB e está disponível em seu próprio servidor dedicado. repo.
+O pacote oficial mongodb-enterprise sempre contém a versão mais recente do MongoDB e está disponível em seu próprio servidor dedicado.
 #### Importante
 O pacote mongodb fornecido pelo Ubuntu não é mantido pelo MongoDB Inc. e entra em conflito com o pacote oficial mongodb-enterprise. Se você já instalou o pacote mongodb no sistema Ubuntu, primeiro desinstale o pacote mongodb antes de continuar com estas instruções.
 Consulte Pacotes do MongoDB Enterprise Edition para obter a lista completa de pacotes oficiais.
